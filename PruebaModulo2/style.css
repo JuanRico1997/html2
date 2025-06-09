@@ -197,7 +197,9 @@ main{
     height: 100%;
     border-radius: 10px;
 }
-
+.proyecto a{
+    color: var(--color_blanco);
+}
 .proyecto .overlay{
     position: absolute;
     top: 0;
